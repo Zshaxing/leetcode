@@ -1,4 +1,4 @@
-package code;
+package com.shaxing.leetcode.code;
 
 public class AddTwoNumber {
   public static class ListNode {
