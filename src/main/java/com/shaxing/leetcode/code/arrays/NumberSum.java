@@ -1,4 +1,4 @@
-package com.shaxing.leetcode.code;
+package com.shaxing.leetcode.code.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
